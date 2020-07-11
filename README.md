@@ -8,6 +8,7 @@ Comecei a estudar programação recentemente e desejo usar meu github como um hi
 - 📚 Estudando programação pela Rocketseat, no curso GoStack de NodeJS, ReactJS e React Native
 - 👩‍🎓 Sou formada em Tecnologia em Produção de Multimídia pelo SENAC Santo Amaro
 - 💬 Meus conhecimentos técnicos por trás das minhas atividades atuais são:
+
     - **Tecnologias web**: HTML, CSS, Bootstrap 5, Wordpress, jquery, Javascript e PHP.
     - **Ferramentas de edição de imagens**: Adobe Photoshop, Illustrator
     - **Ferramentas do Google**: Google Analytics, Google Apps Script, Google Tag Manager
