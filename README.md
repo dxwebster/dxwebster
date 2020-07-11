@@ -1,6 +1,4 @@
-### Olá 👋
-
-<a href="https://www.linkedin.com/in/adriana-limafm/" target="_blank"><img src="https://ik.imagekit.io/dxwebster/1_e-vJbH3JYB.svg"/></a> <a href="https://www.instagram.com/dxwebster/" target="_blank">
+### Olá 👋 <a href="https://www.linkedin.com/in/adriana-limafm/" target="_blank"><img src="https://ik.imagekit.io/dxwebster/1_e-vJbH3JYB.svg"/></a>
 
 Meu nome é Adriana e moro em SP-capital. Tenho alguns anos de experiência na área de web design e estou sempre aprendendo. Se tem algo importante pra saber de mim é que sou bem de humanas pois gosto de coisas como como produção musical, dança, audiovisual, ilustração, teologia e afins. Entretanto, tenho bastante apreciação pelo estudo de tecnologias, principalmente de sistemas para web e mobile.
 
