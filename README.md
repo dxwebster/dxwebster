@@ -1,6 +1,6 @@
 ### Olá 👋 
 
-Meu nome é Adriana e moro em SP-capital. Tenho alguns anos de experiência na área de web design e estou sempre aprendendo. Se tem algo importante pra saber de mim é que sou bem de humanas pois gosto de coisas como como produção musical, dança, audiovisual, ilustração, teologia e afins. Entretanto, tenho bastante apreciação pelo estudo de tecnologias, principalmente de sistemas para web e mobile.
+Meu nome é Adriana e moro em SP-capital. Tenho alguns anos de experiência na área de web design e estou sempre aprendendo. Se tem algo importante pra saber de mim é que sou bem de humanas pois gosto de coisas como como música, dança, audiovisual, ilustração e afins. Entretanto, tenho bastante apreciação pelo estudo de tecnologias, principalmente de sistemas para web e mobile.
 
 Comecei a estudar programação recentemente e desejo usar meu github como um histórico dos meus estudos e principalmente para ajudar outras pessoas iniciantes na programação, assim como eu. Portanto, tenho o objetivo de escrever os Readmes dos projetos de maneira simples e didática.
 
