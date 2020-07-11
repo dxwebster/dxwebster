@@ -8,10 +8,10 @@ Comecei a estudar programação recentemente e desejo usar meu github como um hi
 * Sou formada em Tecnologia em Produção de Multimídia pelo SENAC Santo Amaro
 * Meus conhecimentos técnicos por trás das minhas atividades atuais são:
 
-    > Tecnologias web: HTML, CSS, Bootstrap 5, Wordpress, jquery, Javascript e PHP.
-    > Ferramentas de edição de imagens: Adobe Photoshop, Illustrator
-    > Ferramentas do Google: Google Analytics, Google Apps Script, Google Tag Manager
-    > Ferramentas de edição de código: VSCode, Sublime Text 3
+    * Tecnologias web: HTML, CSS, Bootstrap 5, Wordpress, jquery, Javascript e PHP.
+    * Ferramentas de edição de imagens: Adobe Photoshop, Illustrator
+    * Ferramentas do Google: Google Analytics, Google Apps Script, Google Tag Manager
+    * Ferramentas de edição de código: VSCode, Sublime Text 3
     
 
 
