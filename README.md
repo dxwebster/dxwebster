@@ -4,7 +4,7 @@ Meu nome é Adriana e moro em São Paulo/SP. Tenho alguns anos de experiência n
 
 Comecei a estudar programação recentemente e desejo usar meu github como um histórico dos meus estudos e principalmente para ajudar outras pessoas iniciantes na programação, assim como eu.
 
-- 💻 Atualmente sou webmaster na ASUS Brasil
+- 💻 Atualmente sou webmaster na ASUS Brasil ROG
 - 📚 Estudando programação pela Rocketseat, no curso GoStack de NodeJS, ReactJS e React Native
 - 👩‍🎓 Sou formada em Tecnologia em Produção de Multimídia pelo SENAC Santo Amaro
 
