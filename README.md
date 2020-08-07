@@ -1,12 +1,11 @@
 ### Olá 👋 
 
-Meu nome é Adriana e moro em São Paulo/SP. Tenho alguns anos de experiência na área de web design e estou sempre aprendendo. Se tem algo importante pra saber de mim é que sou bem de humanas pois gosto de coisas como como música, dança, audiovisual, ilustração e afins. Entretanto, tenho bastante apreciação pelo estudo de tecnologias, principalmente de sistemas para web e mobile.
+Meu nome é Adriana e moro em São Paulo/SP. Possuo mais de 7 anos de experiência no universo de web design, e atualmente estou me especializando nas tecnologias mais modernas de desenvolvimento web e mobile pela Stack: NodeJS + ReactJS + React Native. 
 
-Comecei a estudar programação recentemente e desejo usar meu github como um histórico dos meus estudos e principalmente para ajudar outras pessoas iniciantes na programação, assim como eu.
-
-- 💻 Atualmente sou webmaster na ASUS Brasil ROG
-- 📚 Estudando programação pela Rocketseat, no curso GoStack de NodeJS, ReactJS e React Native
-- 👩‍🎓 Sou formada em Tecnologia em Produção de Multimídia pelo SENAC Santo Amaro
+- 💻 Webmaster na ASUS Brasil Republic of Gamers (2014 - atual)
+- 📚 Especialização em desenvolvimento pela Rocketseat, no curso GoStack de NodeJS, ReactJS e React Native (2020)
+- 👩‍🎓 Formada em Tecnologia em Produção de Multimídia pelo SENAC Santo Amaro (2015)
+- 🎨 Técnica em comunicação visual pela ETEC Albert Einstein (2011)
 
 💬 Meus conhecimentos técnicos por trás das minhas atividades atuais são:
 - **Tecnologias web**: HTML, CSS, Bootstrap 5, Wordpress, jquery, Javascript e PHP.
