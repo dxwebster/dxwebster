@@ -1,6 +1,6 @@
 ### Olá 👋 
 
-Meu nome é Adriana e moro em São Paulo/SP. Possuo mais de 7 anos de experiência no universo de web design, e atualmente estou me especializando nas tecnologias mais modernas de desenvolvimento web e mobile: NodeJS + ReactJS + React Native. 
+“Possuo mais de 7 anos de experiência no universo de web design e atualmente estou me especializando nas tecnologias mais modernas de desenvolvimento web e mobile. Tenho grande comprometimento com aprendizado, consciência da importância do trabalho em grupo e paixão em desenvolver projetos.”
 
 - 💻 Webmaster na ASUS Brasil Republic of Gamers (2014 - atual)
 - 📚 Especialização em desenvolvimento de NodeJS, ReactJS e React Native pela Rocketseat (2020)
