@@ -8,7 +8,7 @@ Possuo +7 anos de experiência no universo de web design e atualmente estou me e
 - 🎨 Técnica em comunicação visual pela ETEC Albert Einstein (2011)
 
 💬 Meus conhecimentos técnicos por trás das minhas atividades atuais são:
-- **Tecnologias web**: HTML, CSS, Bootstrap 5, Wordpress, jquery, Javascript e PHP.
+- **Tecnologias web**: HTML, CSS, Bootstrap 5, Wordpress, Jquery, Javascript e PHP.
 - **Ferramentas de edição de imagens**: Adobe Photoshop, Illustrator
 - **Ferramentas do Google**: Google Analytics, Google Apps Script, Google Tag Manager
 - **Ferramentas de edição de código**: VSCode, Sublime Text 3
