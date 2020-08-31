@@ -9,8 +9,8 @@ Possuo +7 anos de experiência no universo de web design e atualmente estou me e
 
 💬 Meus conhecimentos técnicos por trás das minhas atividades atuais são:
 - **Tecnologias web**: HTML, CSS, Bootstrap 5, Wordpress, Jquery, Javascript e PHP.
-- **Ferramentas de edição de imagens**: Adobe Photoshop, Illustrator
+- **Ferramentas de edição**: Adobe Photoshop, Illustrator
 - **Ferramentas do Google**: Google Analytics, Google Apps Script, Google Tag Manager
-- **Ferramentas de edição de código**: VSCode, Sublime Text 3
+- **Ferramentas de código**: VSCode, Sublime Text 3
     
 Para mais informações: <a href="https://www.linkedin.com/in/adriana-limafm/" target="_blank"><img src="https://ik.imagekit.io/dxwebster/1_e-vJbH3JYB.svg"/></a>
