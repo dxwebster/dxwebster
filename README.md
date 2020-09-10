@@ -1,6 +1,6 @@
 ### Olá 👋 
 
-Possuo +7 anos de experiência no universo de web design e atualmente estou me especializando nas tecnologias mais modernas de desenvolvimento web. Tenho grande comprometimento com aprendizado, consciência da importância do trabalho em grupo e paixão em desenvolver projetos.
+Possuo mais de 7 anos de experiência no universo de web design e atualmente estou me especializando nas tecnologias mais modernas de desenvolvimento web e mobile (ReactJS + React Native e NodeJS). Tenho grande comprometimento com aprendizado, gosto muito de trabalhar em grupo e sou apaixonada por desenvolvimento de projetos.
 
 - 💻 Webmaster na ASUS Brasil Republic of Gamers (2014 - atual)
 - 📚 Especialização em desenvolvimento de NodeJS, ReactJS e React Native pela Rocketseat (2020)
