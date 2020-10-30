@@ -2,7 +2,7 @@
 
 Possuo mais de 7 anos de experiência no universo de web design e atualmente estou me especializando nas tecnologias mais modernas de desenvolvimento web e mobile (ReactJS + React Native e NodeJS). Tenho grande comprometimento com aprendizado, gosto muito de trabalhar em grupo e sou apaixonada por desenvolvimento de projetos.
 
-- 💻 Webmaster na ASUS Brasil Republic of Gamers (2014 - atual)
+- 💻 Desenvolvedora Frontend Jr na B2W Digital (atual)
 - 📚 Especialização em desenvolvimento de NodeJS, ReactJS e React Native pela Rocketseat (2020)
 - 👩‍🎓 Formada em Tecnologia em Produção de Multimídia pelo SENAC Santo Amaro (2015)
 - 🎨 Técnica em comunicação visual pela ETEC Albert Einstein (2011)
@@ -13,4 +13,3 @@ Possuo mais de 7 anos de experiência no universo de web design e atualmente est
 - **Ferramentas do Google**: Google Analytics, Google Apps Script, Google Tag Manager
 - **Ferramentas de código**: VSCode, Sublime Text 3
     
-Para mais informações: <a href="https://www.linkedin.com/in/adriana-limafm/" target="_blank"><img src="https://ik.imagekit.io/dxwebster/1_e-vJbH3JYB.svg"/></a>
