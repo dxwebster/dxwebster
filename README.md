@@ -2,7 +2,7 @@
 
 Hoje em dia atuo como desenvolvedora frontend, me especializando nas tecnologias mais modernas de desenvolvimento web como ReactJS, Native e NodeJS, assim como todo o universo do Java Script.
 
-Além disso, posso aproveitar meu background de 8 anos de experiência em codificação de HTML/CSS e criação de layouts resposivos, que me permitiu adquirir um olhar ténico e estratégico entre o design e tecnologia.
+Além disso, posso aproveitar meu background de 7 anos de experiência em codificação de HTML/CSS e criação de layouts resposivos, que me permitiu adquirir um olhar ténico e estratégico entre o design e tecnologia.
 
 Como profissional, tenho grande comprometimento com aprendizado, gosto muito de trabalhar em grupo para gerar soluções e desenvolver projetos.
 
