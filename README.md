@@ -4,9 +4,9 @@ Atuo como desenvolvedora frontend com uso das tecnologias mais modernas de desen
 
 Como profissional, tenho grande comprometimento com aprendizado, gosto muito de trabalhar em grupo para gerar soluções e desenvolver projetos.
 
-- 💻 Desenvolvedora Frontend Jr na B2W Digital (atual)
+- 💻 Desenvolvedora Frontend na B2W Digital (atual)
 - 📚 Especialização em desenvolvimento de NodeJS, ReactJS e React Native pela Rocketseat (2020)
-- 👩‍🎓 Formada em Tecnologia em Produção Multimídia pelo SENAC Santo Amaro (2015)
+- 👩‍🎓 Tecnóloga em Produção Multimídia pelo SENAC Santo Amaro (2015)
 - 🎨 Técnica em comunicação visual pela ETEC Albert Einstein (2011)
 
 Competências técnicas:
