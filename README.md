@@ -1,6 +1,6 @@
 ### Olá 👋 
 
-Olá! Sou desenvolvedora Front-end na Americanas S.A, graduada em Produção de Multímidia pelo SENAC e formada em desenvolvimento pelo Bootcamp GoStack da Rocketseat.
+Sou desenvolvedora Front-end na Americanas S.A, graduada em Produção de Multímidia pelo SENAC e formada em desenvolvimento pelo Bootcamp GoStack da Rocketseat.
 
 Trabalho com o desenvolvimento, manutenção e implementação de melhorias de aplicações web, visando aplicar soluções com qualidade, performance, boas práticas e metodologia ágil.
 
