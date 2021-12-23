@@ -1,12 +1,18 @@
 ### Olá 👋 
 
-Sou desenvolvedora Front-end na Americanas S.A, graduada em Produção de Multímidia pelo SENAC e formada em desenvolvimento pelo Bootcamp GoStack da Rocketseat.
+Sou desenvolvedora Front-end na Americanas S.A, - futura - estudante de MBA em Desenvolvimento Full Stack pela Impacta (início mar/22) e graduada em Produção de Multímidia pelo SENAC.
 
-Trabalho com o desenvolvimento, manutenção e implementação de melhorias de aplicações web, visando aplicar soluções com qualidade, performance, boas práticas e metodologia ágil.
+Trabalho com o desenvolvimento de aplicações web, visando aplicar soluções com qualidade, performance, boas práticas e cumprindo as regras de negócio.
 
-Sou motivada pelo aprendizado contínuo, e procuro me aprimorar não apenas na questão técnica, mas também nas habilidades comportamentais como comunicação e colaboração com a equipe, além da análise e conhecimento de produto e regras de negócio.
+Sou motivada pelo aprendizado contínuo, e meu foco de estudos atual se divide em 3 partes:
 
-Atualmente tenho o foco no desenvolvimento front-end, então aplico diariamente conhecimentos em linguagem de programação Java Script, frameworks como ReactJS e utilização de Hooks, Styled-Components, gerenciamento de estados com Redux Saga, estruturação e estilização com HTML5 e CSS3, integrações com API's, tratamento de dados, tipagem com Typescript, linha de comando, integração de Backend-for-frontend (BFF) e etc.
+- Técnica: Javascript e suas tecnologias, estrutura de dados e algoritmos,
+- Arquitetura: Clean Architecture, SOLID principles e Design Patterns
+- Habilidades comportamentais: comunicação e capacidade analítica
+
+Em 2020, tive a grande oportunidade de participar de um grupo exclusivo de formação de mentores da Rocketseat, o que me permitiu aprender sobre mentoria e interagir ainda mais com a comunidade dev.
+
+Prezo sempre pelo aprendizado constante de maneira acessível e compartilhada, para que todos possam ter a oportunidade de aprender juntos.
 
 - 💻 Desenvolvedora Frontend na Americanas S.A. (atual)
 - 📚 Especialização em desenvolvimento de NodeJS, ReactJS e React Native pela Rocketseat (2020)
