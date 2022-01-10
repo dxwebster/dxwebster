@@ -1,20 +1,22 @@
 ### Olá 👋 
 
-Sou desenvolvedora Front-end na Americanas S.A, - futura - estudante de MBA em Desenvolvimento Full Stack pela Impacta (início mar/22) e graduada em Produção de Multímidia pelo SENAC.
+Desenvolvedora Front-end na Americanas S.A, - futura - estudante de MBA em Desenvolvimento Full Stack pela Impacta (início mar/22), especializada em desenvolvimento web pela Rocketseat e graduada em Produção de Multímidia pelo SENAC.
 
-Trabalho com o desenvolvimento de aplicações web, visando aplicar soluções com qualidade, performance, boas práticas e cumprindo as regras de negócio.
+Trabalho na Americanas S.A com o desenvolvimento de interfaces para a plataforma web de atendimento do SAC. Essa experiência diária me dá a oportunidade de conhecer o segmento pós-venda de varejo, como as operações de atendimento ao cliente, uas regras de negócio e quais são soluções implementadas para atender às necessidade do consumidor.
 
-Sou motivada pelo aprendizado contínuo, e meu foco de estudos atual se divide em 3 partes:
+Acredito que o desenvolvimento técnico precisa andar de mãos dadas com o conhecimento do negócio da qual faço parte. Isso consequentemente contribui para a implementação de soluções com melhor qualidade, simplicidade, e também pensando na experiênca de usuário.
 
-- Técnica: Javascript e suas tecnologias, estrutura de dados e algoritmos,
-- Arquitetura: Clean Architecture, SOLID principles e Design Patterns
-- Habilidades comportamentais: comunicação e capacidade analítica
+Meu foco atual de estudos e trabalho se divide algumas frentes:
 
-Em 2020, tive a grande oportunidade de participar de um grupo exclusivo de formação de mentores da Rocketseat, o que me permitiu aprender sobre mentoria e interagir ainda mais com a comunidade dev.
+- Tecnologias: Javascript, Typescript, ReactJS, NodeJS, NextJS;
+- Lógica de Programação: Estruturas de dados e algoritmos
+- Arquitetura: Clean Architecture, SOLID principles e Design Patterns;
+- Produto e Negócio do contexto/projeto que estou inserida
 
-Prezo sempre pelo aprendizado constante de maneira acessível e compartilhada, para que todos possam ter a oportunidade de aprender juntos.
+Antes de migrar para programação, trabalhei por volta de 7 anos como web designer, da qual obtive experiência com:
 
-- 💻 Desenvolvedora Frontend na Americanas S.A. (atual)
-- 📚 Especialização em desenvolvimento de NodeJS, ReactJS e React Native pela Rocketseat (2020)
-- 👩‍🎓 Tecnóloga em Produção Multimídia pelo SENAC Santo Amaro (2015)
-- 🎨 Técnica em comunicação visual pela ETEC Albert Einstein (2011)
+- Desenvolvimento de páginas web com HTML5, CSS3, SASS, Jquery, JavaScript
+- Conceitos de UX para criação de interfaces responsivas e amigáveis
+- Frameworks de modelo de design como Bootstrap e Material-UI
+- Google Analytics e conceitos de SEO
+- Noções de PHP e Wordpress
