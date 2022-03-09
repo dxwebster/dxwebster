@@ -1,6 +1,6 @@
 ### Olá 👋 
 
-Desenvolvedora Front-end na Grupo Boticário, estudante em Desenvolvimento Full Stack pela Impacta,  graduada em Produção de Multimídia pelo SENAC e especializada em desenvolvimento web pela Rocketseat.
+Desenvolvedora Front-end na Grupo Boticário, estudante em Desenvolvimento Full Stack pela Impacta,  graduada em Produção de Multimídia pelo SENAC e alumini em desenvolvimento web pela Rocketseat.
 
 Procuro aprender tecnologia com junto com regras de negócio visando implementar soluções com qualidade e sempre pensando na melhor experiência para o usuário.
 
