@@ -1,5 +1,4 @@
 ### Olá 👋 
-
 Sou apaixonada pelo universo do Front-end e suas tecnologias. Sou questionadora e procuro pensar fora da caixa, buscando as mais diversas possibilidades para resolução de problemas.
 
 Gosto de explorar novas ferramentas e metodologias, entretanto, permaneço estudando as bases e fundamentos da programação e linguagens.
@@ -8,7 +7,7 @@ Adoro escrever documentações e tutoriais, que não só me ajudam a assimilar o
 
 Atualmente, sou desenvolvedora Front-end na Grupo Boticário, na squad de Fidelidade.  
 
-Sou estudante de pós-graduação em Desenvolvimento Full Stack pela Impacta, graduada em Produção de Multimídia pelo SENAC e "alumini" (ex-aluna) de desenvolvimento web pela Rocketseat.
+Sou pós-graduada em Desenvolvimento Full Stack pela Impacta, graduada em Produção de Multimídia pelo SENAC e "alumini" (ex-aluna) de desenvolvimento web pela Rocketseat.
 
 Trabalhei na Americanas S.A de out/2020 a fev/2022 com o desenvolvimento de interfaces para a plataforma web de atendimento do SAC da qual conheci o segmento pós-venda de varejo e suas regras de negócio.
 
