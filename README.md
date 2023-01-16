@@ -1,9 +1,10 @@
 ### Olá 👋 
-Desenvolvedora front-end, pós-graduada em Desenvolvimento Full Stack pela Impacta, graduada em Produção de Multimídia pelo SENAC e alumini de desenvolvimento web da Rocketseat.
+
+Meu nome é Adriana, sou dev front-end, pós-graduada em Desenvolvimento Full Stack pela Impacta, graduada em Produção de Multimídia pelo SENAC e alumini de desenvolvimento web da Rocketseat.
 
 Sou positiva, questionadora mapear as mais diversas possibilidades para solucionar problemas. Além disso, gosto de escrever documentações, tutoriais e artigos para compartilhar e procuro sempre aprender com os outros.
 
-Atualmente, sou desenvolvedora Front-end na Grupo Boticário, na squad responsável pelo desenvolvimento do programa de fidelidade das marcas Boticário, Quem Disse Berenice e BeautyBox. 
+Atualmente, sou dev Front-end na Grupo Boticário, na squad responsável pelo desenvolvimento do programa de fidelidade das marcas Boticário, Quem Disse Berenice e BeautyBox. 
 
 Trabalhei na Americanas S.A como dev front-end junior no sistema de atendimento do SAC das marcas Americanas, Shoptime, Submarino e Soub.
 
